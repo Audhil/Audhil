@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Mohammed Audhil, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Chennai, India</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Bengaluru, India</b>. </p>
+<p>Welcome to my page! </br> I'm <b>Mohammed Audhil</b>, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Chennai, India</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Bengaluru, India</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Android" src="https://img.shields.io/badge/Android-green?style=flat-square&logo=android&logoColor=white" />
@@ -72,14 +72,13 @@
   <img alt="bitbucket" src="https://img.shields.io/badge/-BitBucket-2684FF?style=flat-square&logo=bitbucket&logoColor=white" />
   <img alt="mercurial" src="https://img.shields.io/badge/-Hg-gray?style=flat-square&logo=mercurial&logoColor=white" />
 </p>
+
 ------------
 <h3>Find my latest posts</h3>
 <ul>
-  <li><a href="https://medium.com/@audhilmohammed"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Android app development experiences </b></a><br/><i>Find interesting, solutions to unsolvable problems from your browser!</i></li>
+  <a href="https://medium.com/@audhilmohammed"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Android app development experiences </b></a><br/><i>Find interesting, solutions to unsolvable problems from your browser!</i>
 <br/>Currently, the weather is: <b> 5°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>08:44</b> and sets at <b>14:55</b>.</p>
-<h3>Where to find me</h3>
-<p><a href="https://github.com/Audhil" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/MohammedAudhil" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/audhil/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@audhilmohammed" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
+
 ------------
 <h3>Github Stats</h3>
 
@@ -90,6 +89,11 @@
 <h3>Github Stats</h3>
 
 ![](https://github-profile-trophy.vercel.app/?username=Audhil&theme=monokai&no-frame=false&no-bg=false&margin-w=4)<br/>
+
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/Audhil" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/MohammedAudhil" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/audhil/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@audhilmohammed" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 30 December, 16:01 CET<br />
