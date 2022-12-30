@@ -82,11 +82,13 @@
 </p>
 ------------
 <h3>Github Stats</h3>
+
 ![](https://github-readme-stats.vercel.app/api?username=Audhil&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Audhil&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Audhil&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 <h3>Github Stats</h3>
+
 ![](https://github-profile-trophy.vercel.app/?username=Audhil&theme=monokai&no-frame=false&no-bg=false&margin-w=4)<br/>
 
 ------------
