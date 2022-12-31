@@ -1,0 +1,25 @@
+{
+  "name": "mustache",
+  "version": "1.0.0",
+  "description": "<h1><img src=\"https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430\" width=\"30\"/> Hey! Nice to see you.</h1>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Audhil/Audhil.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Audhil/Audhil/issues"
+  },
+  "homepage": "https://github.com/Audhil/Audhil#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mustache": "^4.2.0",
+    "node-fetch": "^3.3.0"
+  }
+}
