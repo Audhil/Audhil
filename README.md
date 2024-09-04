@@ -113,7 +113,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Audhil&theme=monokai&no-frame=false&no-bg=false&margin-w=4)<br/>
 
-<br/>Currently, the weather is: <b> 30°C, <i></i></b><br>Today, the sun rises at
+<br/>Currently, the weather is: <b> 26°C, <i></i></b><br>Today, the sun rises at
 <b>05:58</b> and sets at <b>18:18</b>.
 
 <h3>Where to find me</h3>
@@ -128,7 +128,7 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!<br>Last refresh: Tuesday, 3 September, 17:56 GMT+5:30<br/>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!<br>Last refresh: Wednesday, 4 September, 06:32 GMT+5:30<br/>
 </p>
 <p align="center">
     <img alt="readme" src="https://github.com/Audhil/Audhil/workflows/README%20build/badge.svg"/>
