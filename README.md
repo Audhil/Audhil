@@ -1,9 +1,9 @@
 <h1><img alt="sunglass" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
     Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br> I'm <b>Mohammed Audhil</b>, Fullstack developer from <img alt="india"
-        src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Chennai, India</b>, currently living
-    in <img alt="india" src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Bengaluru, India</b>. </p>
+<p>Welcome to my page! <br> I'm <b>Mohammed Audhil</b>, a Technical Lead Engineer specializing in Digital Banking Solutions, originally from <img alt="india"
+        src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Chennai, India</b>, currently based
+    in <img alt="malaysia" src="https://cdn-icons-png.flaticon.com/512/630/630691.png" width="13"/> <b>Greater Kuala Lumpur, Malaysia</b>. </p>
 <h3>Things I code with</h3>
 <p>
     <img alt="Android" src="https://img.shields.io/badge/Android-green?style=flat-square&logo=android&logoColor=white"/>
