@@ -1,9 +1,9 @@
 <h1><img alt="sunglass" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
     Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br> I'm <b>Mohammed Audhil</b>, a Technical Lead Engineer specializing in Digital Banking Solutions, originally from <img alt="india"
-        src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Chennai, India</b>, currently based
-    in <img alt="malaysia" src="https://cdn-icons-png.flaticon.com/512/630/630691.png" width="13"/> <b>Greater Kuala Lumpur, Malaysia</b>. </p>
+<p>Welcome to my page! <br> I'm <b>Mohammed Audhil</b>, Fullstack developer from <img alt="india"
+        src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Chennai, India</b>, currently living
+    in <img alt="india" src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Bengaluru, India</b>. </p>
 <h3>Things I code with</h3>
 <p>
     <img alt="Android" src="https://img.shields.io/badge/Android-green?style=flat-square&logo=android&logoColor=white"/>
@@ -113,7 +113,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Audhil&theme=monokai&no-frame=false&no-bg=false&margin-w=4)<br/>
 
-<br/>Currently, the weather is: <b> 24°C, <i></i></b><br>Today, the sun rises at
+<br/>Currently, the weather is: <b> 30°C, <i></i></b><br>Today, the sun rises at
 <b>06:30</b> and sets at <b>18:15</b>.
 
 <h3>Where to find me</h3>
@@ -128,7 +128,7 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!<br>Last refresh: Wednesday, 19 February, 06:37 GMT+5:30<br/>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!<br>Last refresh: Wednesday, 19 February, 15:07 GMT+5:30<br/>
 </p>
 <p align="center">
     <img alt="readme" src="https://github.com/Audhil/Audhil/workflows/README%20build/badge.svg"/>
